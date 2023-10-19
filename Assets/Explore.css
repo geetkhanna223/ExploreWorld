@@ -488,6 +488,7 @@ i{
     color: #495057;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
 .fa-globe:before {
     content: "\f0ac";
